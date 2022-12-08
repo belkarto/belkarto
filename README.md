@@ -4,10 +4,6 @@
 ![](https://badge.mediaplus.ma/binary/belkarto)
 
 
-
-[![belkarto GitHub stats](https://github-readme-stats.vercel.app/api?username=belkarto&show_icons=true&theme=radical)](https://github.com/belkarto)
-
-[![belkarto Most Used Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=belkarto&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6)](https://github.com/belkarto)
 ![Twitter](https://img.shields.io/twitter/url/https/twitter.com/BElkartouch.svg?style=social&label=Follow%20%40BElkartouch)
 
 ### My GitHub Stats
